@@ -1,0 +1,6 @@
+{
+  "name": "CivicPulse - Smart City Urban Incident & Analytics",
+  "description": "Real-time smart city municipal operations dashboard for urban incident triage, complaint analytics, ward telemetry, and field squad dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
